@@ -142,3 +142,4 @@ C:\RegisterLoginProject\RegisterLoginDemo\RegisterLoginDemo\obj\Debug\net8.0\ref
 C:\RegisterLoginProject\RegisterLoginDemo\RegisterLoginDemo\obj\Debug\net8.0\RegisterLoginDemo.pdb
 C:\RegisterLoginProject\RegisterLoginDemo\RegisterLoginDemo\obj\Debug\net8.0\RegisterLoginDemo.genruntimeconfig.cache
 C:\RegisterLoginProject\RegisterLoginDemo\RegisterLoginDemo\obj\Debug\net8.0\ref\RegisterLoginDemo.dll
+C:\RegisterLoginProject\RegisterLoginDemo\RegisterLoginDemo\obj\Debug\net8.0\RegisterLoginDemo.sourcelink.json
